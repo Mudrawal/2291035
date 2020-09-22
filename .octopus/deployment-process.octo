@@ -2,7 +2,7 @@ process {
     Id = "deploymentprocess-Projects-5750"
     OwnerId = "Projects-5750"
     IsFrozen = false
-    Version = 0
+    Version = 1
     SpaceId = "Spaces-322"
     Steps {
     }
